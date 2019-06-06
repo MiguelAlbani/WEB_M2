@@ -1,0 +1,11 @@
+USER PARA TESTES
+
+Usuário padrão para acesso de administrador;
+
+
+Usuário: admin
+
+Senha: admin
+
+
+Após acesso administrador é possível cadastrar e/ou editar os demais usuários (Coordenadores / Professores)
